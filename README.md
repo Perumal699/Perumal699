@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Perumal
 - 👀 I’m interested in web devolopment and app devolopment
 - 🌱 I’m currently learning react and javascript
+- ## I am quite inactive in github so my id wont be that much fascinating to view my profile kindly look into mu linkedin profile - https://www.linkedin.com/in/m-perumal-378574221
 
 
 <!---
